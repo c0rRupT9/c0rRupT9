@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+Build+CPUs&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=680&height=50)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=c0rRupT9&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=c0rRupT9&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="" />
 
 </div>
 
