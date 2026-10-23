@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+Build+CPUs&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=680&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+Build+CPUs;From+Logic+Gates+to+Pipelines&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=680&height=50)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=c0rRupT9&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="" />
+EE · CPU architecture · digital logic · bare-metal C/C++
 
 </div>
 
@@ -19,15 +19,26 @@ An 8-bit Harvard architecture CPU built completely from discrete 74-series logic
 
 
 
+---
+## Other Projects
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| [**HYPERION-MP**](https://github.com/c0rRupT9/HYPERION-MP) | Cycle-accurate 5-stage RISC pipeline simulator with a saturating Branch Target Buffer, Return Address Stack, and full hazard unit. About 0.8 average IPC on recursive Fibonacci. | C++ |
+| **VT100 CLI Engine** | Zero-dependency command-line engine for the ATmega328P with VT100/ANSI terminal control, interrupt-driven UART with ring buffers, and a live register/memory inspection shell. | Bare-metal C, AVR |
+| [**AVL-Trees**](https://github.com/c0rRupT9/AVL-Trees) | Self-balancing AVL tree from scratch, with a dictionary implementation. | C++ |
+ 
+ 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-702963?style=for-the-badge&logo=lattice&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logisim--Evolution-444444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0rRupT9&show_icons=true&hide_rank=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="GitHub Stats" />
-</div>
+
 
 ## 📬 Contact & Collaboration
 
