@@ -1,10 +1,10 @@
-# Hi, I'm Ahmad 👋
-I build CPUs from individual logic gates and study computer architecture.
-Open to **freelance work** in digital logic, C++ and CPU design.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+build+CPUs+from+individual+logic+gates+and+study+computer+architecture.)](https://git.io/typing-svg)
+
+
 
 ## Featured project
-**[STEPLA-1](https://github.com/c0rRupT9/STEPLA-1)** is an 8-bit Harvard CPU
-built from 74-series gates, with a hardwired control unit and a 43-page spec.
+**[STEPLA-1](https://github.com/c0rRupT9/STEPLA-1)** 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=is+an+8-bit+Harvard+CPU+built+from+74-series+gates,+with+a+hardwired+control+unit+and+a+43-page+spec.)](https://git.io/typing-svg)
 
 <img width="800" height="450" alt="computer-demo" src="https://github.com/user-attachments/assets/305a9e31-4920-4353-8731-1ad7239b4e47" />
 
@@ -16,6 +16,7 @@ built from 74-series gates, with a hardwired control unit and a 43-page spec.
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white)
 
 ## Contact
+Open to **freelance work** in digital logic, C++ and CPU design.
 tcf.dik@gmail.com
 
 
