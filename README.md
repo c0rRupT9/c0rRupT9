@@ -1,23 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+build+CPUs+from+individual+logic+gates+and+study+computer+architecture.)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!I+Build+CPUs+%26+Low-Level+Systems;Arch+Linux+%2B+Custom+Bash+Enthusiast&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=650&height=50)](https://git.io/typing-svg)
 
+</div>
 
-## Featured project
-**[STEPLA-1](https://github.com/c0rRupT9/STEPLA-1)** 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=is+an+8-bit+Harvard+CPU+built+from+74-series+gates,+with+a+hardwired+control+unit+and+a+43-page+spec.)](https://git.io/typing-svg)
+---
 
-<img width="800" height="450" alt="computer-demo" src="https://github.com/user-attachments/assets/305a9e31-4920-4353-8731-1ad7239b4e47" />
+## ⚡ Featured Project
 
+### **[STEPLA-1](https://github.com/c0rRupT9/STEPLA-1)**
+An 8-bit Harvard architecture CPU built completely from discrete 74-series logic gates, featuring a custom hardwired control unit, registers, RAM, and a comprehensive 43-page specification.
 
-## Tools
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white)
+<p align="center">
+  <img width="1000" alt="STEPLA-1 Computer Demo" src="https://github.com/user-attachments/assets/305a9e31-4920-4353-8731-1ad7239b4e47" />
+</p>
 
-## Contact
-Open to **freelance work** in digital logic, C++ and CPU design.
-tcf.dik@gmail.com
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-702963?style=for-the-badge&logo=lattice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 📬 Contact & Collaboration
+
+Open to **freelance work** and interesting projects in **digital logic design, CPU architecture, and low-level C++ systems**.
+
+* 📧 Email: [tcf.dik@gmail.com](mailto:tcf.dik@gmail.com)
 
 
 <!--
