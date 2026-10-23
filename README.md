@@ -8,7 +8,7 @@
 
 
 
-## ⚡ Featured Project
+## Featured Project
 
 ### **[STEPLA-1](https://github.com/c0rRupT9/STEPLA-1)**
 An 8-bit Harvard architecture CPU built completely from discrete 74-series logic gates, featuring a custom hardwired control unit, RAM, registers, and a complete 43-page technical specification.
@@ -18,8 +18,6 @@ An 8-bit Harvard architecture CPU built completely from discrete 74-series logic
 </p>
 
 
-
-## 🛠️ Tech Stack & Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=verilog&logoColor=white" />
