@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!I+Build+CPUs+%26+Low-Level+Systems;Arch+Linux+%2B+Custom+Bash+Enthusiast&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=650&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ahmad!;I+Build+CPUs+%26+Low-Level+Systems&font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FFCC&center=true&width=650&height=50)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,14 +20,10 @@ An 8-bit Harvard architecture CPU built completely from discrete 74-series logic
 ## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/FPGA-702963?style=for-the-badge&logo=lattice&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
