@@ -26,7 +26,7 @@ An 8-bit Harvard architecture CPU built completely from discrete logic gates, fe
  
 | Project | What it is | Stack |
 |---|---|---|
-| [**HYPERION-MP**](https://github.com/c0rRupT9/HYPERION-MP) | Cycle-accurate 5-stage RISC pipeline simulator with a saturating Branch Target Buffer, Return Address Stack, and full hazard unit. About 0.8 average IPC on recursive Fibonacci. | C++, Python |
+| [**HYPERION-MP**](https://github.com/c0rRupT9/HYPERION-MP) | Cycle-accurate 5-stage RISC pipeline simulator with a saturating Branch Target Buffer, Return Address Stack, and full hazard unit. | C++, Python |
 | [**VT100 CLI Engine**](https://github.com/c0rRupT9/micro-cli-engine) | Zero-dependency command-line engine for the ATmega328P with VT100/ANSI terminal control, interrupt-driven UART with ring buffers, and a live register/memory inspection shell. | Bare-metal C, AVR |
 | [**AVL-Trees**](https://github.com/c0rRupT9/AVL-Trees) | Self-balancing AVL tree from scratch, with a dictionary implementation. | C++ |
  
